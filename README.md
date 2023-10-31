@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi! 👋
 
+This is the page devoted to my Lecture about "Machine Learning" given at the Department of Mathematics and Physics "Ennio De Giorgi" @Unisalento.
+The Lecture will start in the second semester of the a.y. 2023/24. Stay tuned!
 <!--
 **fbdurante/fbdurante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
